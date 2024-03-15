@@ -1,0 +1,98 @@
+:root {
+  --blue-color: #2196f3;
+  --web-color2: #000000;
+  --black-color: #212121;
+  --gray-color: #757575;
+}
+
+.address-link {
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+}
+.bobrik {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+}
+footer {
+  background-color: #2f303a;
+}
+.footer-logo {
+  color: #ffffff;
+  font-family: Raleway;
+  font-size: 26px;
+  font-weight: 700;
+}
+div {
+  background-color: #2f303a;
+}
+:root {
+  --blue-color: #2196f3;
+  --web-color2: #000000;
+  --black-color: #212121;
+  --gray-color: #757575;
+}
+span {
+  color: var(--blue-color);
+}
+.logo {
+  color: var(--web-color2);
+  font-family: Raleway;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}
+.nav-link:hover,
+.header-link:hover {
+  color: var(--blue-color);
+}
+ul {
+  list-style: none;
+}
+/* header and footer, copyed */
+body {
+  font-family: "Roboto", sans-serif;
+}
+.nav-link {
+  color: rgb(33, 33, 33);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+}
+.header-link {
+  color: rgb(117, 117, 117);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+}
+figcaption p {
+  color: rgb(33, 33, 33);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 6%;
+  text-align: left;
+}
+article {
+  box-sizing: border-box;
+  border: 1px solid rgb(238, 238, 238);
+  background: rgb(255, 255, 255);
+  width: 370px;
+  height: 404px;
+}
+figcaption + p {
+  color: rgb(117, 117, 117);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 3%;
+  text-align: left;
+}
